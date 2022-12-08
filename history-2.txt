@@ -1,0 +1,70 @@
+   0 cd /home
+   1 mkdir home/animals
+   2 cd
+   3 cd /home
+   4 mkdir animals
+   5 mkdir /home/animals/dogs /home/animals/cats /home/animals/fish
+   6 touch /home/animals/dogs/pluto.txt
+   7 touch /home/aimals/cats/pluto.txt
+   8 touch /home/animals/cats/pluto.txt
+   9 touch /home/animals/fish/nemo.txt
+  10 cd
+  11 cd /tmp
+  12 touch adam.txt
+  13 cp --help
+  14 cp -p /tmp /home/humans
+  15 cp adam.txt /tmp/home/humans
+  16 cd /home
+  17 mkdir humans
+  18 cd /tmp
+  19 cp adam.txt /tmp/home/humans
+  20 cp -p  adam.txt /tmp/home/humans
+  21 cd
+  22 mkdir --help
+  23 cd /home
+  24 ls
+  25 cd /tmp
+  26 cp /tmp/adam.txt /tmp/home/humans/adam1.txt
+  27 cp /tmp/adam.txt /tmp/home/humans/ada1.txt
+  28 cp /tmp/adam.txt /tmp/home/humans/adam.txt
+  29 cp adam.txt /tmp/home/humans/adam.txt
+  30 cd
+  31 cp /tmp/adam.txt /home/humans/
+  32 cd /home
+  33 ls
+  34 tree
+  35 clear
+  36 cd
+  37 cd /tmp
+  38 touch evA
+  39 cd
+  40 mv /tmp/evA.txt /opt/eve.txt
+  41 mv --help
+  42 mv /tmp/evA.txt /opt/
+  43 mv /tmp/evA.txt /opt/evA.txt
+  44 clear
+  45 mv evA.txt /opt
+  46 mv evA.txt opt/
+  47 cd /tmp
+  48 mv evA.txt opt/
+  49 mv evA.txt 
+  50 ls
+  51 touch evA.txt
+  52 ls
+  53 mv evA.txt opt/
+  54 mv evA.txt opt/eve.txt
+  55 cd
+  56 mv /tmp/evA.txt /opt/eve.txt
+  57 cd /opt
+  58 ls
+  59 cd
+  60 mv /opt/eve.txt /home/humans
+  61 cd /home
+  62 ls
+  63 cd/humans
+  64 ls
+  65 ls humans
+  66 history > history.txt
+  67 cd
+  68 history
+  69 history > history.txt
