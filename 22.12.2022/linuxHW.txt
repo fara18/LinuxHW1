@@ -1,5 +1,0 @@
-   0 nano
-   1 cat /etc/group | tail -n 5 >> linux.txt
-   2 cat linux.txt
-   3 vi linux.txt
-   4 history > linuxHW.txt
